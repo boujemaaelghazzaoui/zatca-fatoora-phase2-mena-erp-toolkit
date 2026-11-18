@@ -1,0 +1,22 @@
+{
+  "name": "@softclick-ma/zatca-fatoora-phase2-mena-erp-toolkit",
+  "version": "1.0.0",
+  "description": "TypeScript ZATCA Fatoora Phase 2 TLV QR & UBL 2.1 XML e-invoicing toolkit with Odoo/SAP sync and GCC payment adapters.",
+  "homepage": "https://softclick.ma/services/crm-erp-integration",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/softclick-ma/zatca-fatoora-phase2-mena-erp-toolkit.git"
+  },
+  "keywords": [
+    "zatca-phase-2",
+    "fatoora",
+    "saudi-arabia",
+    "odoo-erp",
+    "mada",
+    "stc-pay",
+    "softclick"
+  ],
+  "license": "MIT",
+  "author": "SOFTCLICK SARL <contact@softclick.ma> (https://softclick.ma)",
+  "main": "./index.ts"
+}
